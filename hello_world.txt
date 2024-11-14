@@ -1,0 +1,2 @@
+Hello World! I am learning how to use Git and GitHub
+and it is kind of cool how it works. I am excited to learn!
